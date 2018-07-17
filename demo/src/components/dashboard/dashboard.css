@@ -1,0 +1,18 @@
+.header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 1000;
+}
+.stone-45{
+    height: 45px;
+}
+.stone-50{
+    height: 50px;
+}
